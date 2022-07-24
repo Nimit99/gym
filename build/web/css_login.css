@@ -1,0 +1,22 @@
+h1 {
+  color: whitesmoke;
+  text-align: center;
+   margin-top: 0px;
+   font-size: 100px;
+}
+
+
+.xyz{
+    background-image: url("gym2.jpg");
+    padding: 200px 200px;
+    margin: 100px;
+    
+    background-size: cover;
+    
+    text-decoration: whitesmoke;
+
+    
+}
+.pqr{
+    
+}

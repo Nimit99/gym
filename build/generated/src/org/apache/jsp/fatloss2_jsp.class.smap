@@ -1,0 +1,14 @@
+SMAP
+fatloss2_jsp.java
+JSP
+*S JSP
+*F
++ 0 fatloss2.jsp
+fatloss2.jsp
+*L
+5,39:44
+44,3:84
+46,16:87
+62,3:104
+64,820:107
+*E

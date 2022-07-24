@@ -1,0 +1,21 @@
+h1 {
+  color: whitesmoke;
+  text-align: center;
+   margin-top: 0px;
+   font-size: 100px;
+}
+
+
+.box{
+    background-image: url("g3.jpg");
+    padding: 200px 100px;
+    margin: 100px;
+    
+    background-size: cover;
+    
+    text-decoration: whitesmoke;
+        
+    
+        
+}
+
